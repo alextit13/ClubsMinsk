@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Клубы Минск</string>
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">КЛУБЫ МИНСК</string>
+    <string name="settings">SETTINGS</string>
+</resources>
